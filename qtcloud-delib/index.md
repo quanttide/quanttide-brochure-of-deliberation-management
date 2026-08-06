@@ -1,6 +1,8 @@
 # 量潮议事云进入内测阶段
 
-量潮议事云已经上线内测版本：https://delib.cloud.quanttide.com。仓库开源在 GitHub 组织 quanttide 的 qtcloud-delib 仓库。
+量潮议事云已经上线内测版本：https://delib.cloud.quanttide.com
+
+仓库开源在 GitHub 组织 quanttide 的 qtcloud-delib 仓库。
 
 ---
 
