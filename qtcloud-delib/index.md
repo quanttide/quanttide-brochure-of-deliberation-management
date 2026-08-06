@@ -14,7 +14,7 @@
 
 手机端类似：
 
-![手机端-决议列表](images/resolution-mobile.png)
+![手机端-决议列表](https://raw.githubusercontent.com/quanttide/quanttide-brochure-of-deliberation-management/main/qtcloud-delib/images/resolution-mobile.png)
 
 ---
 
@@ -26,7 +26,7 @@
 
 在手机端上操作会进入一个新页面：
 
-![手机端-决议详情](images/resolution-mobile.png)
+![手机端-决议详情](https://raw.githubusercontent.com/quanttide/quanttide-brochure-of-deliberation-management/main/qtcloud-delib/images/resolution-mobile.png)
 
 ---
 
