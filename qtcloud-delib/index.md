@@ -14,7 +14,7 @@
 
 手机端类似：
 
-![手机端-决议列表](images/手机.webp)
+![手机端-决议列表](images/resolution-mobile.webp)
 
 ---
 
@@ -26,7 +26,7 @@
 
 在手机端上操作会进入一个新页面：
 
-![手机端-决议详情](images/手机.webp)
+![手机端-决议详情](images/resolution-mobile.webp)
 
 ---
 
