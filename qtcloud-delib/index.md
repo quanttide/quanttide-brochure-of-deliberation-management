@@ -52,24 +52,18 @@
 
 ## 实例
 
-![决议列表](https://raw.githubusercontent.com/quanttide/quanttide-brochure-of-deliberation-management/main/qtcloud-delib/images/resolution-list.png)
+![决议列表](images/resolution-list.png)
 
-![决议详情](https://github.com/quanttide/quanttide-brochure-of-deliberation-management/blob/main/qtcloud-delib/images/resolution-detail-1.png?raw=true)
+![决议详情](images/resolution-detail-1.png)
 
 ---
 
 ## 接下来
 
-还缺什么：
-- 没有搜索。决议多了就找不到了。
-- 没有协作。还是一条单向记录，不能评论、不能讨论。
-- 没有状态流转。决议完成了就消失了，没有"提议→讨论中→已决议→执行中→已完成"的生命周期。
-- 内容是手写的 JSON。没有编辑器，得在代码里改。
+还缺的东西很多。
 
-下一步：
-- 补搜索和筛选
-- 加入决议状态流转
-- 支持关联议题
-- 加一个简单的编辑界面
+没有搜索。决议多了就找不到了。没有协作，还是单向记录，不能评论、不能讨论。没有状态流转——决议完成了就消失了，不存在"提议→讨论中→已决议→执行中→已完成"这回事。内容还是手写的 JSON，没有编辑器，得在代码里改。
 
-当我们自己用它管理了至少 10 次会议的决议之后，进入公测。
+这些都会慢慢补上。搜索、筛选、状态流转、关联议题、一个简单的编辑界面。
+
+但我们不着急。先自己用它管至少 10 次会议的决议。跑通了再进公测。
