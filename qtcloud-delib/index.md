@@ -56,6 +56,10 @@
 
 ![决议详情](images/resolution-detail-1.png)
 
+在手机端上操作会进入一个新页面：
+
+![手机端](images/手机.webp)
+
 ---
 
 ## 接下来
